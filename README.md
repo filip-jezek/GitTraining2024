@@ -1,5 +1,5 @@
 # GitTraining2024
  
-Hello, world!
+Hello, North America!
 
 This is our testing repository.
