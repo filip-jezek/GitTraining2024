@@ -1,5 +1,5 @@
 # GitTraining2024
  
-Hello, world!
+Good afternoon, Europe!
 
 This is our testing repository.
