@@ -2,4 +2,4 @@
  
 Hello, world!
 
-This is our testing repository.
+Early bird gets the worm, but second mouse gets the cheese.
